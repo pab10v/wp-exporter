@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WordPress Exporter
+Comment=Extract content from WordPress sites and XML exports
+Exec=python3 %k/run_exporter_linux.py
+Icon=applications-python
+Terminal=false
+Categories=Office;Development;WebDevelopment;
+Keywords=wordpress;export;content;xml;api;blog;
+StartupNotify=true
